@@ -56,6 +56,7 @@ setup(
         "": ["README.rst"]
     },
     install_requires=[
+        "Pillow>=5.0.0,<6.0.0"
     ],
     tests_require=["pytest"],
     entry_points={
