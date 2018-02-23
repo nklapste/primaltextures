@@ -45,7 +45,7 @@ def test_to_gif(primitive_images):
     fn, images = primitive_images
     to_gif(
         os.path.join(str(fn), "out.gif"),
-        image_paths,
+        images,
         duration=5
     )
 
