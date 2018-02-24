@@ -4,6 +4,5 @@
 """primaltextures
 
 Scripts:
-    __main__
-Modules:
+  + :mod:`__main__`
 """
